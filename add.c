@@ -7,3 +7,4 @@ c=a+b;
 printf("the value of C = %d",c);
 getch();
 }
+hello world sravani
